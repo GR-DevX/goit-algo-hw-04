@@ -125,6 +125,8 @@ result = merge_k_lists(lists)
 
 ---
 
+![](https://github.com/GR-DevX/goit-algo-hw-04/blob/main/pic/sorting_algorithms_performance_log.png)
+
 ### Висновки
 
 - Insertion Sort ефективний лише на малих масивах (до 100–500 елементів), але швидко втрачає продуктивність.
